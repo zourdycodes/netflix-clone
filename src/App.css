@@ -1,0 +1,17 @@
+.app {
+    background-color: #111;
+}
+
+/* @media (min-width: 375px) {
+    .app {
+        height: 130vh;
+        width: 130vw;
+    }
+} */
+
+@media (max-width: 411px) {
+    .app {
+        height: 130vh;
+        width: 130vw;
+    }
+}
